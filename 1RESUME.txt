@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<!-- saved from url=(0052)file:///C:/Users/Win10/Desktop/PROJECT/PROJECTT.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>RESUME</title>
+    </head><body bgcolor="grey"><img src="C:\Users\Win10\Desktop\PROJECT\IMG_20241216_215339.png" alt="Guruz" width="200" height="170">
+    <h1>GURUZ ANTONY MERSON S</h1>
+    <hr>
+    <link rel="icon" type="image/x-icon" href="file:///C:/Users/Win10/Desktop/PROJECT/assets/favicon.ico">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+
+  
+    <h2>Introduction</h2>
+    <p>Great day, I am Guruz Antony Merson s from Chidambaram. I am currently pursuing KSR college of engineering. My knnowledge will serve your company as much as possible, with  hope I trust in my knowledge to be work as a Full Stack Developer</p>
+    <h2>Education Qualification</h2>
+    <ol>
+      <li>10th in Nirmala Matric higher sec. school, Chidambaram-All pass</li>
+    <li>12th in Nirmala Matric higher sec. school, Chidambaram-82%</li>
+    <li>engineering in IOT-8.7CGPA</li>
+    </ol>
+    
+
+    <h2>Techncal skills</h2>
+    <ol>
+      <li>C programming</li>
+      <li>Python</li>
+      <li>Java</li>
+      <li>HTML, CSS</li>
+    </ol>
+    <h2>Certification</h2>
+    <ol>
+      <li>Completion certificate for Internship in REJOLA company for Java </li>
+      <li>Completed Cloud Computing in NPTEL</li>
+      <li>Completed basic oops in c++ in Udemy</li>
+   
+      <li>Completed C programin in Infosys SpringBoard</li>
+      
+      <li>Completed HTML basic in Great Learning</li>
+      <li>Completed certificate for typewritting (lower level)</li>
+    </ol>
+    
+
+      <h2>Extra Curricular</h2>
+      <ol>
+        <li>NSS Volunteer
+        </li><li>Class Representive for 2 years
+        </li><li>Brown Belt holder in Shito Ryo Karate Do(karate)
+      </li></ol>
+
+      <h2>Contact Details</h2>
+      <p><b>phone Number:</b> 9344913923</p>
+      <p><b>Gmail:</b>guruzantony000@gmail.com</p>
+      <p><b>Address:</b> 1010, Ansari nagar, Vandigate, Pallpadai, Chidambaram-608001</p>
+       <a href="https://www.linkedin.com/in/guruz-antony-merson-s-487a79291/"> click here for linkedin profile</a>
+      
+  
+
+</body></html>
